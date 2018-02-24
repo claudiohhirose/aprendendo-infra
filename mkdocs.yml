@@ -1,4 +1,9 @@
 site_name: Aprendendo Fundamentos de Infraestrutura de TI
+site_url: https://aprendendo-infra-ti.netlify.com
+site_description: Aprenda sobre Infraestrutura de TI
+site_author: Claudio Haruyoshi Hirose
+copyright: Copyright &copy; 2018 - Claudio Haruyoshi Hirose
+
 theme:
   name: 'material'
   language: 'pt'
