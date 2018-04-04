@@ -3,6 +3,7 @@ Múltiplos do Byte
 =================
 
 Sistema Internacional de Unidades (sigla SI, do francês *Système international d'unités*)
+
 | Nome     | Símbolo | Múltiplo - base 10   | Múltiplo - base 1000   | Valor          |
 |----------|--------:|---------------------:|-----------------------:|----------------|
 | byte     |B        |     10^0^            |1.000^0^                |1 byte          |
@@ -16,9 +17,12 @@ Sistema Internacional de Unidades (sigla SI, do francês *Système international
 | yottabyte|YB       |     10^24^           |1.000^8^                |1.000 zettabytes|
 
 
+
 Comissão Eletrotécnica Internacional (IEC, do inglês *International Electrotechnical Commission*)
+
+
 | Nome     | Símbolo | Múltiplo - base 2   | Múltiplo - base 1024   | Valor          |
-|----------|--------:|---------------------:|----------------------:|----------------|
+|----------|--------:|--------------------:|-----------------------:|----------------|
 | byte     |B        |     2^0^            |1.024^0^                |1 byte          |
 | kibibyte |KiB      |     2^10^           |1.024^1^                |1.024 bytes     |
 | mebibyte |MiB      |     2^20^           |1.024^2^                |1.024 kibibytes |
