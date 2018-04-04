@@ -58,4 +58,4 @@ extra_css:
         - 'extra-css/extra.css'
 pages:
         - Home: index.md
-        - Grandezas do Byte: grandezas/index.md
+        - Grandezas do Byte e Bit: grandezas/index.md
