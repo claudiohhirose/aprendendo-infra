@@ -3,7 +3,6 @@ Grandezas do Byte
 =================
 
 !!! Sistema Internacional de Unidades (sigla SI, do francês *Système international d'unités*)
-
 	| Nome     | Símbolo | Múltiplo - base 10   | Múltiplo - base 1000   | Valor          |
 	|----------|--------:|---------------------:|-----------------------:|----------------|
 	| byte     |B        |     10^0^            |1.000^0^                |1 byte          |
